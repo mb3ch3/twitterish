@@ -1,2 +1,0 @@
-# twitterish
-something like twitter
